@@ -33,4 +33,4 @@
 
 ## Дополнительно:
 
-Я сделала небольшой дашборд в Tableau, который можно посмотреть [здесь] (https://public.tableau.com/views/_16983611467950/sheet2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Я сделала небольшой дашборд в Tableau, который можно посмотреть [здесь](https://public.tableau.com/views/_16983611467950/sheet2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
